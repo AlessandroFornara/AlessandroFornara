@@ -9,7 +9,7 @@ Hi there 👋, I'm Alessandro a passionate programmer and technology enthusiast.
     - Programming languages: Java, C, JavaScript
     - Databases: MySQL
     - Development tools: Git, Intellij, Eclipse, Clion
-    - Web technologies: HTML, CSS, HTTP, DOM API
+    - Web technologies: HTML, CSS, HTTP, DOM API, RESTful API
 
 ## Projects
 
