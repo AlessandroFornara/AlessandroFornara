@@ -1,4 +1,5 @@
-<img src="https://github.com/AlessandroFornara/AlessandroFornara/tree/main/images/simple_banner.jpg" alt="Banner Alessandro Fornara" />
+<img src="https://raw.githubusercontent.com/AlessandroFornara/AlessandroFornara/main/images/simple_banner.jpg" alt="Banner Alessandro Fornara" />
+
 
 # Welcome to my GitHub profile! 👋
 
